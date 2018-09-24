@@ -1,0 +1,534 @@
+{
+  "seasons": [
+    "PRESEASON 3",
+    "SEASON 3",
+    "PRESEASON 2014",
+    "SEASON 2014",
+    "PRESEASON 2015",
+    "SEASON 2015",
+    "PRESEASON 2016",
+    "SEASON 2016",
+    "PRESEASON 2017",
+    "SEASON 2017",
+    "PRESEASON 2018",
+    "SEASON 2018"
+  ],
+  "queues": [
+    {
+      "id": 0,
+      "queueName": "Custom",
+      "queueDescription": ""
+    },
+    {
+      "id": 2,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Blind Pick"
+    },
+    {
+      "id": 4,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Ranked Solo"
+    },
+    {
+      "id": 6,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Ranked Premade"
+    },
+    {
+      "id": 7,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs AI"
+    },
+    {
+      "id": 8,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "3v3 Normal"
+    },
+    {
+      "id": 9,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "3v3 Ranked Flex"
+    },
+    {
+      "id": 14,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Draft Pick"
+    },
+    {
+      "id": 16,
+      "queueName": "Crystal Scar",
+      "queueDescription": "5v5 Dominion Blind Pick"
+    },
+    {
+      "id": 17,
+      "queueName": "Crystal Scar",
+      "queueDescription": "5v5 Dominion Draft Pick"
+    },
+    {
+      "id": 25,
+      "queueName": "Crystal Scar",
+      "queueDescription": "Dominion Co-op vs AI"
+    },
+    {
+      "id": 31,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs AI Intro Bot"
+    },
+    {
+      "id": 32,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs AI Beginner Bot"
+    },
+    {
+      "id": 33,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs AI Intermediate Bot"
+    },
+    {
+      "id": 41,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "3v3 Ranked Team"
+    },
+    {
+      "id": 42,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Ranked Team"
+    },
+    {
+      "id": 52,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "Co-op vs AI"
+    },
+    {
+      "id": 61,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Team Builder"
+    },
+    {
+      "id": 65,
+      "queueName": "Howling Abyss",
+      "queueDescription": "5v5 ARAM"
+    },
+    {
+      "id": 70,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "One for All"
+    },
+    {
+      "id": 72,
+      "queueName": "Howling Abyss",
+      "queueDescription": "1v1 Snowdown Showdown"
+    },
+    {
+      "id": 73,
+      "queueName": "Howling Abyss",
+      "queueDescription": "2v2 Snowdown Showdown"
+    },
+    {
+      "id": 75,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "6v6 Hexakill"
+    },
+    {
+      "id": 76,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Ultra Rapid Fire"
+    },
+    {
+      "id": 78,
+      "queueName": "Howling Abyss",
+      "queueDescription": "One For All: Mirror Mode"
+    },
+    {
+      "id": 83,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs AI Ultra Rapid Fire"
+    },
+    {
+      "id": 91,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Doom Bots Rank 1"
+    },
+    {
+      "id": 92,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Doom Bots Rank 2"
+    },
+    {
+      "id": 93,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Doom Bots Rank 5"
+    },
+    {
+      "id": 96,
+      "queueName": "Crystal Scar",
+      "queueDescription": "Ascension"
+    },
+    {
+      "id": 98,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "6v6 Hexakill"
+    },
+    {
+      "id": 100,
+      "queueName": "Butcher's Bridge",
+      "queueDescription": "5v5 ARAM"
+    },
+    {
+      "id": 300,
+      "queueName": "Howling Abyss",
+      "queueDescription": "Legend of the Poro King"
+    },
+    {
+      "id": 310,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Nemesis"
+    },
+    {
+      "id": 313,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Black Market Brawlers"
+    },
+    {
+      "id": 315,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Nexus Siege"
+    },
+    {
+      "id": 317,
+      "queueName": "Crystal Scar",
+      "queueDescription": "Definitely Not Dominion"
+    },
+    {
+      "id": 318,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "ARURF"
+    },
+    {
+      "id": 325,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "All Random"
+    },
+    {
+      "id": 400,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Draft Pick"
+    },
+    {
+      "id": 410,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Ranked Dynamic"
+    },
+    {
+      "id": 420,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Ranked Solo"
+    },
+    {
+      "id": 430,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Blind Pick"
+    },
+    {
+      "id": 440,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "5v5 Ranked Flex"
+    },
+    {
+      "id": 450,
+      "queueName": "Howling Abyss",
+      "queueDescription": "5v5 ARAM"
+    },
+    {
+      "id": 460,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "3v3 Blind Pick"
+    },
+    {
+      "id": 470,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "3v3 Ranked Flex"
+    },
+    {
+      "id": 600,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Blood Hunt Assassin"
+    },
+    {
+      "id": 610,
+      "queueName": "Cosmic Ruins",
+      "queueDescription": "Dark Star: Singularity"
+    },
+    {
+      "id": 700,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Clash"
+    },
+    {
+      "id": 800,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "Co-op vs. AI Intermediate Bot"
+    },
+    {
+      "id": 810,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "Co-op vs. AI Intro Bot"
+    },
+    {
+      "id": 820,
+      "queueName": "Twisted Treeline",
+      "queueDescription": "Co-op vs. AI Beginner Bot"
+    },
+    {
+      "id": 830,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs. AI Intro Bot"
+    },
+    {
+      "id": 840,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs. AI Beginner Bot"
+    },
+    {
+      "id": 850,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Co-op vs. AI Intermediate Bot"
+    },
+    {
+      "id": 900,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "ARURF"
+    },
+    {
+      "id": 910,
+      "queueName": "Crystal Scar",
+      "queueDescription": "Ascension"
+    },
+    {
+      "id": 920,
+      "queueName": "Howling Abyss",
+      "queueDescription": "Legend of the Poro King"
+    },
+    {
+      "id": 940,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Nexus Siege"
+    },
+    {
+      "id": 950,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Doom Bots Voting"
+    },
+    {
+      "id": 960,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Doom Bots Standard"
+    },
+    {
+      "id": 980,
+      "queueName": "Valoran City Park",
+      "queueDescription": "Star Guardian Invasion: Normal"
+    },
+    {
+      "id": 990,
+      "queueName": "Valoran City Park",
+      "queueDescription": "Star Guardian Invasion: Onslaught"
+    },
+    {
+      "id": 1000,
+      "queueName": "Overcharge",
+      "queueDescription": "PROJECT: Hunters"
+    },
+    {
+      "id": 1010,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "Snow ARURF"
+    },
+    {
+      "id": 1020,
+      "queueName": "Summoner's Rift",
+      "queueDescription": "One for All"
+    },
+    {
+      "id": 1030,
+      "queueName": "Crash Site",
+      "queueDescription": "Odyssey: Extraction Intro"
+    },
+    {
+      "id": 1040,
+      "queueName": "Crash Site",
+      "queueDescription": "Odyssey: Extraction Cadet"
+    },
+    {
+      "id": 1050,
+      "queueName": "Crash Site",
+      "queueDescription": "Odyssey: Extraction Crewmember"
+    },
+    {
+      "id": 1060,
+      "queueName": "Crash Site",
+      "queueDescription": "Odyssey: Extraction Captain"
+    },
+    {
+      "id": 1070,
+      "queueName": "Crash Site",
+      "queueDescription": "Odyssey: Extraction Onslaught"
+    },
+    {
+      "id": 1200,
+      "queueName": "Nexus Blitz",
+      "queueDescription": "Nexus Blitz"
+    }
+  ],
+  "maps" : [
+    {
+      "id": 1,
+      "mapName": "Summoner's Rift",
+      "mapDescription": "Original Summer"
+    },
+    {
+      "id": 2,
+      "mapName": "Summoner's Rift",
+      "mapDescription": "Original Autumn"
+    },
+    {
+      "id": 3,
+      "mapName": "The Proving Grounds",
+      "mapDescription": "Tutorial"
+    },
+    {
+      "id": 4,
+      "mapName": "Twisted Treeline",
+      "mapDescription": "Original"
+    },
+    {
+      "id": 8,
+      "mapName": "The Crystal Scar",
+      "mapDescription": "Dominion"
+    },
+    {
+      "id": 10,
+      "mapName": "Twisted Treeline",
+      "mapDescription": "Current"
+    },
+    {
+      "id": 11,
+      "mapName": "Summoner's Rift",
+      "mapDescription": "Current"
+    },
+    {
+      "id": 12,
+      "mapName": "Howling Abyss",
+      "mapDescription": "ARAM"
+    },
+    {
+      "id": 14,
+      "mapName": "Butcher's Bridge",
+      "mapDescription": "ARAM"
+    },
+    {
+      "id": 16,
+      "mapName": "Cosmic Ruins",
+      "mapDescription": "Dark Star: Singularity"
+    },
+    {
+      "id": 18,
+      "mapName": "Valoran City Park",
+      "mapDescription": "Star Guardian Invasion"
+    },
+    {
+      "id": 19,
+      "mapName": "Substructure 43",
+      "mapDescription": "PROJECT: Hunters"
+    },
+    {
+      "id": 20,
+      "mapName": "Crash Site",
+      "mapDescription": "Odyssey: Extraction"
+    },
+    {
+      "id": 21,
+      "mapName": "Nexus Blitz",
+      "mapDescription": "Nexus Blitz"
+    }
+  ],
+  "gameModes": [
+    {
+      "modeName": "CLASSIC",
+      "modeDescription": "Classic Summoner's Rift and Twisted Treeline"
+    },
+    {
+      "modeName": "ODIN",
+      "modeDescription": "Dominion/Crystal Scar"
+    },
+    {
+      "modeName": "ARAM",
+      "modeDescription": "ARAM"
+    },
+    {
+      "modeName": "TUTORIAL",
+      "modeDescription": "Tutorial"
+    },
+    {
+      "modeName": "URF",
+      "modeDescription": "URF"
+    },
+    {
+      "modeName": "DOOMBOTSTEEMO",
+      "modeDescription": "Doom Bot"
+    },
+    {
+      "modeName": "ONEFORALL",
+      "modeDescription": "One for All"
+    },
+    {
+      "modeName": "ASCENSION",
+      "modeDescription": "Ascension"
+    },
+    {
+      "modeName": "FIRSTBLOOD",
+      "modeDescription": "Snowdown Showdown"
+    },
+    {
+      "modeName": "KINGPORO",
+      "modeDescription": "Legend of the Poro King"
+    },
+    {
+      "modeName": "SIEGE",
+      "modeDescription": "Nexus Siege"
+    },
+    {
+      "modeName": "ASSASSINATE",
+      "modeDescription": "Blood Hunt Assassin"
+    },
+    {
+      "modeName": "ARSR",
+      "modeDescription": "All Random Summoner's Rift"
+    },
+    {
+      "modeName": "DARKSTAR",
+      "modeDescription": "Dark Star: Singularity"
+    },
+    {
+      "modeName": "STARGUARDIAN",
+      "modeDescription": "Star Guardian Invasion"
+    },
+    {
+      "modeName": "PROJECT",
+      "modeDescription": "PROJECT: Hunters"
+    },
+    {
+      "modeName": "GAMEMODEX",
+      "modeDescription": "Nexus Blitz"
+    },
+    {
+      "modeName": "ODYSSEY",
+      "modeDescription": "Odyssey: Extraction"
+    }
+  ],
+  "gameTypes": [
+    {"typeName": "CUSTOM_GAME", "typeDescription": "Custom Game"},
+    {"typeName": "TUTORIAL_GAME", "typeDescription": "Tutorial"},
+    {"typeName": "MATCHED_GAME", "typeDescription": "Matched Game"}
+  ]
+}

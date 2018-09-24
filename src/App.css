@@ -1,0 +1,38 @@
+.jumbotron{
+  margin-top: 100px;
+}
+
+.btn-submit{
+  margin-top: 10px;
+}
+
+.game-card{
+  margin-bottom: 1em;
+}
+
+.game-card > .card-header{
+  cursor: pointer;
+}
+
+div.modal.show{
+  display: block;
+  background-color: black;
+  opacity: 0.3;
+}
+
+div.modal.show .modal-dialog{
+  opacity: 1;
+}
+
+.bd-example-modal-lg .modal-dialog{
+  display: table;
+  position: relative;
+  margin: 0 auto;
+  top: calc(50% - 24px);
+}
+
+.bd-example-modal-lg .modal-dialog .modal-content{
+  background-color: transparent;
+  border: none;
+  color: white;
+}
