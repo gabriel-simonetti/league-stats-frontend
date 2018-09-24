@@ -7,10 +7,9 @@ import registerServiceWorker from './registerServiceWorker';
 import rootReducer from './reducers';
 import logger from 'redux-logger';
 
+let store = createStore(rootReducer);
 if(process.env.REACT_APP_DEBUG_MODE){
-  const store = createStore(rootReducer, applyMiddleware(logger));
-} else {
-  const store = createStore(rootReducer);
+  store = createStore(rootReducer, applyMiddleware(logger));
 }
 
 ReactDOM.render((
