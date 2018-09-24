@@ -23,7 +23,6 @@ export default (state = defaultState, action) => {
     case actionTypes.FINISH_LOADING:
       return state.set('isLoading', false);
     case actionTypes.SHOW_ERROR_MESSAGE:
-      console.log("ShowErrorMessage", action.message);
       izitoast.error({title: 'Error', message: (action.message ? action.message : 'Could not perform this operation.')});
       return state;
     default:
