@@ -39,7 +39,12 @@ class MatchListPresentation extends Component {
         <hr className="my-4" />
       {
         this.props.loadedMatchList
-          .map(match => (<MatchContainer key={i++} currentIndex={i} currentSummoner={this.props.summoner} matchData={match} />))
+          .map(match => {
+            if(match && match.gameId !== undefined)
+              return (<MatchContainer key={i++} currentIndex={i} currentSummoner={this.props.summoner} matchData={match} />)
+            else
+              return ('');
+          })
       }
         <hr/>
         {
